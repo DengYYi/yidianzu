@@ -1,0 +1,7 @@
+@mixin transitionall($arguments:all 0.25s){
+	-webkit-transition:$arguments;
+	transition:$arguments;
+	-o-transition:$arguments;
+	-moz-transition:$arguments;
+	-ms-transition:$arguments;
+}
