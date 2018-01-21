@@ -1,0 +1,48 @@
+[
+	{
+		"url":"https://www.edianzu.com/item/100245",
+		"src":"https://edzimg.edianzu.com/homepage/e074c1cb0efd88e96d10c0b301232b21.png"
+	},
+	{
+		"url":"https://www.edianzu.com/item/113542",
+		"src":"https://edzimg.edianzu.com/homepage/25a7949bafd6ad2293d0bd00394c4940.jpg",
+		"title":"易办公QuickPC E21 台式机",
+		"point":"卓越性能 尽情释放",
+		"price":"￥85/月"
+	},
+	{
+		"url":"https://www.edianzu.com/item/112465",
+		"src":"https://edzimg.edianzu.com/homepage/23f8980e39fa4037f457ac914e2bd2fa.jpg",
+		"title":"ThinkPad E470",
+		"point":"经典商务，平衡卓越",
+		"price":"￥99/月"
+	},
+	{
+		"url":"https://www.edianzu.com/item/112527",
+		"src":"https://edzimg.edianzu.com/homepage/69d3d3a6c4ad08a940be051b4d467b13.jpg",
+		"title":"全新戴尔 成铭3977",
+		"point":"专属定制 低价高效",
+		"price":"￥99/月"
+	},
+	{
+		"url":"https://www.edianzu.com/item/111898",
+		"src":"https://edzimg.edianzu.com/homepage/931492e09cb550f04e505b70be110ca8.png",
+		"title":"微软SurfacePro 12.3寸超极本",
+		"point":"它不仅仅是一台笔记本",
+		"price":"￥348/月"
+	},
+	{
+		"url":"https://www.edianzu.com/item/111722",
+		"src":"https://edzimg.edianzu.com/homepage/13e7d3cc02b30a58ad3764e3aa543f57.png",
+		"title":"全新MacBook Air MQD32",
+		"point":"纤薄与轻盈得难以置信",
+		"price":"￥238/月"
+	},
+	{
+		"url":"https://www.edianzu.com/item/111724",
+		"src":"https://edzimg.edianzu.com/homepage/13e7d3cc02b30a58ad3764e3aa543f57.png",
+		"title":"全新MacBook Pro MPXQ2",
+		"point":"速度更快，屏幕更鲜亮，机身更纤薄",
+		"price":"￥238/月"
+	}
+]

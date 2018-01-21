@@ -142,6 +142,7 @@
 					// })
 					$li.css({
 						position:"absolute",
+						background:"",
 						top:-$li.height()
 					})
 					$li.eq(0).css({

@@ -27,4 +27,27 @@ table{border-collapse:collapse;}
 }
 i,a,span,b{
 	display:inline-block;
+	
 }
+.footer-list{
+	margin-right:137px;
+}
+.footer-list-space{
+	margin-right:72px;
+}
+.footer-tit{
+	margin-bottom: 18px;
+	font-size: 14px;
+    color: #343434;
+    line-height: 26px;
+}
+
+
+
+
+$bg:#f5f5f5;
+$color:#666d71;
+$blue:#23a5f9;
+$nav:#37a3ff;
+$bgi:url(../images/web.png) no-repeat;
+$bgchat:url(../images/pic.png) no-repeat;

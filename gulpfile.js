@@ -11,7 +11,7 @@ gulp.task("html",()=>{
 			 	.pipe(connect.reload());//自动刷新;
 })
 gulp.task("watch",()=>{
-	gulp.watch(["./scss/*.scss","*.html","./images/*.*","./script/*.js"],["sass","html","image","script"]);
+	gulp.watch(["./scss/*.scss","*.html","./images/*.*","./script/*.js","./json/*.json"],["sass","html","image","script","json"]);
 })
 gulp.task('server',function(){
     connect.server({
@@ -37,6 +37,12 @@ gulp.task("script",()=>{
     return gulp.src('./script/*.js')
                 .pipe(gulp.dest('dist/script'))
 })
+
+gulp.task("json",()=>{
+     return gulp.src('./json/*.json')
+    .pipe(gulp.dest('dist/json'));
+});
+
 
 
 gulp.task("default",["watch","server"]);

@@ -2,6 +2,9 @@
 requirejs.config({
 	paths:{
 		jquery:"script/jquery-3.2.1",
-		banner_test:"script/jquery.supperBanner",
+		ajax:"script/ajax",
+		banner:"script/banner",
+		floor:"script/floor",
+		stairs:"script/stairs"
 	}
 })

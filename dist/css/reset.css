@@ -56,3 +56,15 @@ table {
 
 i, a, span, b {
   display: inline-block; }
+
+.footer-list {
+  margin-right: 137px; }
+
+.footer-list-space {
+  margin-right: 72px; }
+
+.footer-tit {
+  margin-bottom: 18px;
+  font-size: 14px;
+  color: #343434;
+  line-height: 26px; }
